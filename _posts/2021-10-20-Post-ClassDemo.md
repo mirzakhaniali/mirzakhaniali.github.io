@@ -1,14 +1,14 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: یک تصویر از یک لشگر با المان فانتزی
 ---
 
-## This is my team at Microsoft
+## This is a large fantasy army
 People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+- ارتش به شدت زیاد
+- فضایی وهم آلود برای القای حس عجیب بودن
+- تاریک و مه آلود بودن فضا برای حس غم و ترس از جنگ
+- نشان دادن دور دست ها برای ایجاد حس کوچک بودن . 
 
 [my favorite website](http://www.google.com)
 
@@ -17,7 +17,7 @@ kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/1.jpg "fantasy army")
 
 ---
 **Test**: This is atest
