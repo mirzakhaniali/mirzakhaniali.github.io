@@ -107,11 +107,7 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "ali mirzakhani"
-=======
-  name             : "Khargooshe Naziloo"
->>>>>>> a83988cd54aa93f759f4685789b6d5f89c1732f4
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm the best student. and i love coding and fantasy .
   location         : "تهران"
