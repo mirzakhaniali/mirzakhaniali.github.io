@@ -8,11 +8,11 @@ title: تکالیف تا الان
 
 ![alt text](../assets/images/dorage_jeld1.jpg "تصویر روی جلد رمان از کتاب اول" https://google.com)
 
-<a href= ""><image src=""><a>
-<a href= ""><image src=""><a>
+[../assets/images/dorage_jeld1.jpg][def:https://google.com]
 
 
-[وبسایت بوک پایونیر که بعد از انحلال بوک پیج به انتشار این رمان ادامه میدهد. ](https;//bookpioneers.ir)
+
+[وبسایت بوک پایونیر که بعد از انحلال بوک پیج به انتشار این رمان ادامه میدهد. ](https://bookpioneers.ir)
 
 
 
@@ -20,3 +20,6 @@ title: تکالیف تا الان
 ![alt text](../assets/images/dorage_jeld2.jpg "تصویر روی جلد کتاب دوم از جلد اول ")
 ---
 **Test**: This is atest
+
+
+[def]: https://google.com
