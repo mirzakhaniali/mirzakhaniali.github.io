@@ -13,10 +13,17 @@ title: تکالیف تا الان
 <a href= "C:\git\personal_website_template\taklif.py"> تکلیف جلسه دو بود  <a>
 
 
-<a href= "C:\git\personal_website_template\s3.py"> تکلیف جلسه دو بود  <a>
+<a href= "C:\git\personal_website_template\s3.py"> تکلیف جلسه سه بود  <a>
 
+<a href= "C:\git\personal_website_template\mooshak.py"> تکلیف جلسه چهار بود  <a>
 
-[تکلیف جلسه 3][def C:\git\personal_website_template\s3.py]
+<a href= "C:\git\personal_website_template\s3.py"> تکلیف جلسه پنج بود  <a>
+
+<a href= "C:\git\personal_website_template\s3.py"> تکلیف جلسه شش بود  <a>
+
+<a href= "C:\git\personal_website_template\s3.py"> تکلیف جلسه هفت بود  <a>
+
+<a href= "C:\git\personal_website_template\s3.py"> تکلیف جلسه هشت بود  <a>
 
 
 [وبسایت بوک پایونیر که بعد از انحلال بوک پیج به انتشار این رمان ادامه میدهد. ](https://bookpioneers.ir)
